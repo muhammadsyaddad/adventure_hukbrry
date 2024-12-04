@@ -1,0 +1,23 @@
+export const words = [
+    "react",
+    "javascript",
+    "typescript",
+    "node",
+    "express",
+    "nextjs",
+    "tailwind",
+    "graphql",
+    "python",
+    "django",
+    "flask",
+    "java",
+    "kotlin",
+    "swift",
+    "flutter",
+    "go",
+    "ruby",
+    "php",
+    "laravel",
+    "vue",
+  ];
+  
